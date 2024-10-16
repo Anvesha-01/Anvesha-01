@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with amazing projects
-- 📫 How to reach me:
+- 📫 How to reach me:<br>
   Linkedln: https://www.linkedin.com/in/anvesha-singh-1410172b0 <br>
   Email: anveshaasingh09@gmail.com
 - ⚡ Fun fact: I love dancing💃
