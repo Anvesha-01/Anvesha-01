@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anvesha-01
+<h1 align="center">👋 Hi, I’m Anvesha Singh</h1>
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate with amazing projects
